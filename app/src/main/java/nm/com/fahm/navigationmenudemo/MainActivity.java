@@ -86,6 +86,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * A placeholder fragment containing a simple view.
+     nee d to put it in a seperate file
      */
     public static class PlaceholderFragment extends Fragment {
         /**
